@@ -16,9 +16,11 @@ Queens University of Belfast
 
 ## Contact me
 
-mailto:leckey@yandex.com
-mailto:josh@leckey.dev
+### Emails
+[Primary](mailto:leckey@yandex.com).  
+[Secondary](mailto:josh@leckey.dev).  
 
-https://www.linkedin.com/in/josh-leckey-032b49194/
-https://www.facebook.com/josh.leckey.5/
+### Social Media
+[LinkedIn](https://www.linkedin.com/in/josh-leckey-032b49194/).  
+[Facebook](https://www.facebook.com/josh.leckey.5/)
 

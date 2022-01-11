@@ -14,4 +14,11 @@ Queens University of Belfast
 ✅PHP.  
 ✅html. 
 
+## Contact me
+
+mailto:leckey@yandex.com
+mailto:josh@leckey.dev
+
+https://www.linkedin.com/in/josh-leckey-032b49194/
+https://www.facebook.com/josh.leckey.5/
 
